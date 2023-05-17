@@ -12,7 +12,7 @@ Step one 1.
 
 Step two 2.
 
-	-Copy and paste both the title keys and prod keys (found in D:/SwitchShit/3. prodkeys) into the key folder (photo 2)
+	-Copy and paste both the title keys and prod keys (found in D:/SwitchShit/4. prodkeys) into the key folder (photo 2)
 
 
 Step three 3. 
@@ -35,7 +35,7 @@ Step six 6.
 Step seven 7.
 
 	-Now we want to update the game from 1.0.0 to the latest version, so we will click install files to NAND under the file tab (photo 7)
-	-Once clicked navigate to the 4.GameUpdates folder and select the singular file listed adn click done, the update should go through
+	-Once clicked navigate to the 3.GameUpdates folder and select the singular file listed adn click done, the update should go through
 
 
 Step eight 8.
