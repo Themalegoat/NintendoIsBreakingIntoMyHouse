@@ -1,3 +1,6 @@
+For any randoms reading this (as in anyone who wasnt directly sent here by me) there are no files here sorry :( this is only a guide for what I have provided to those I know, again Sorry!
+
+
 Step zero 0.
 
 	-Copy and paste everything onto your desktop and remove the drive when finished
